@@ -1,5 +1,0 @@
-Test file B
-Name: Riya
-Age: 20
-City: Delhi
-Favorite subject: Data Analytics

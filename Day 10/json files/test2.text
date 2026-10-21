@@ -1,6 +1,0 @@
-Append Practice Log
--------------------
-2026-10-10 | File created for practice.
-2026-10-11 | Example entry: read the existing content.
-
-Try opening this file with mode "a" and adding a new dated entry without deleting the lines above.
