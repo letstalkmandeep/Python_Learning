@@ -1,0 +1,11 @@
+{
+  "project": "Python File Handling Practice",
+  "created_for": "beginner practice",
+  "active": true,
+  "students": [
+    {"id": 101, "name": "Aarav Sharma", "course": "B.Com", "score": 86},
+    {"id": 102, "name": "Meera Verma", "course": "BBA", "score": 92},
+    {"id": 103, "name": "Kabir Singh", "course": "B.Com", "score": 78}
+  ],
+  "topics": ["read", "write", "append", "JSON basics"]
+}

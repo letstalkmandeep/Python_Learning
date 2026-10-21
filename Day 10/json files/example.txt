@@ -1,0 +1,6 @@
+Example Text File
+-----------------
+Python can open a text file in read mode using open("example.txt", "r").
+The with statement closes the file automatically after the block finishes.
+
+Practice task: read this file and print each line separately.
